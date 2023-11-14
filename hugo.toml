@@ -5,3 +5,15 @@ theme = "PaperMod"
 [params.homeInfoParams]
 Title = "Salam les khouilla,  mhhhh je connais mon corp ..."
 Content = "hi hi hi"
+
+[[menu.main]]
+identifier = "home"
+name = "Accueil"
+url = "/"
+
+[[menu.main]]
+identifier = "archives"
+name = "archives"
+url = "/archives/"
+
+
