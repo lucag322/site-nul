@@ -16,4 +16,9 @@ identifier = "archives"
 name = "archives"
 url = "/archives/"
 
+[[menu.main]]
+identifier = "antoine"
+name = "Antoine"
+url = "/antoine/"
+
 
