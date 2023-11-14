@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Site nul hihi'
 theme = "PaperMod"
 [params.homeInfoParams]
-Title = "Salam les khouilla,  mhhhh je connais mon corp ..."
+Title = "Chroniques du Monde: Actualités et Perspectives Globales"
 
 [[contentTypes]]
   name = "post"
@@ -28,8 +28,8 @@ url = "/antoine/"
 
 [[menu.main]]
 identifier = "thomas"
-name = "thomas"
-url = "/thomas/"
+name = "FAQ"
+url = "/faq/"
 
 [[menu.main]]
 identifier = "brandon"
