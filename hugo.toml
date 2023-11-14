@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Site nul hihi'
+theme = "PaperMod"
+[params.homeInfoParams]
+Title = "Salam les khouilla,  mhhhh je connais mon corp ..."
+Content = "hi hi hi"
