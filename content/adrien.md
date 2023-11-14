@@ -4,27 +4,16 @@ date: 2023-11-14T00:00:00Z
 draft: false
 ---
 
-Dans l'ombre pâle des jours qui s'étirent,
-L'absence d'Adrien, une douleur à sourire.
-Les souvenirs, comme des ombres délavées,
-Dansent silencieusement, mais laissent un vide palpable.
+Dans l'atmosphère feutrée de la bibliothèque universitaire, Adrien s'immergeait dans les pages d'un vieux roman, cherchant refuge dans les mondes imaginaires pour échapper aux tumultes de la réalité. C'est là qu'il rencontra Antoine, un étudiant aux yeux captivants, plongé dans la contemplation des étagères de livres.
 
-Les rires partagés, échos lointains,
-Se perdent dans le murmure du vent.
-Les mots doux, comme des pétales fanées,
-Se dispersent, laissant le cœur meurtri.
+Au fil des semaines, Adrien et Antoine se retrouvèrent souvent à partager le silence réconfortant de la bibliothèque. Des regards furtifs, des sourires complices, une connexion qui grandissait à chaque échange de livres recommandés. Adrien sentit naître en lui un sentiment singulier, une flamme qui dansait dans son cœur à chaque présence d'Antoine.
 
-Adrien, un nom gravé dans le livre du temps,
-Mais maintenant, il danse avec les étoiles.
-La solitude, une mélodie triste,
-Résonne en moi, une symphonie de manque.
+Les heures passées ensemble se transformèrent en un ballet délicat, rythmé par les murmures des pages tournées et les échos de leurs rires discrets. Adrien se surprit à guetter chaque instant où leurs regards se croisaient, à chercher la moindre excuse pour prolonger ces rencontres qui devenaient indispensables.
 
-Les jours passent, mais l'absence persiste,
-Comme une pluie fine qui n'apaise pas la soif.
-Les heures glissent, indifférentes,
-Mais chaque tic-tac résonne comme un adieu.
+Le cœur d'Adrien battait la chamade lorsqu'il découvrit qu'Antoine partageait sa passion pour la poésie. Ils décidèrent de créer ensemble un recueil de vers, tissant leurs émotions et leurs rêves dans chaque strophe. C'est au détour d'une phrase envoûtante que le regard d'Adrien croisa celui d'Antoine, et à cet instant, il comprit que son cœur s'était éperdument épris de son compagnon littéraire.
 
-Adrien me manque, comme une fleur fanée,
-Comme une étoile éteinte dans la nuit infinie.
-Son absence, un poème triste,
-Écrit dans les lignes de mon cœur solitaire.
+Le dilemme intérieur d'Adrien grandissait, mêlant la douceur de l'amitié à la complexité de ses sentiments naissants. Un jour, alors que le soleil se couchait en teintant le ciel de nuances dorées, Adrien se décida à partager ses émotions avec Antoine. Il lui révéla les vers qu'il avait écrits en secret, des mots qui trahissaient la profondeur de son amour naissant.
+
+Antoine, d'abord surpris, laissa transparaître une lueur émue dans ses yeux. Il prit doucement la main d'Adrien et lui confessa à son tour qu'il ressentait une connexion spéciale entre eux. Leur amitié évolua alors naturellement vers quelque chose de plus profond, un amour fou qui s'épanouissait au cœur des livres et des mots partagés.
+
+À partir de ce jour, Adrien et Antoine continuèrent à écrire leur histoire d'amour, chaque chapitre inspiré par la magie de leur rencontre à la bibliothèque. Leurs cœurs s'entrelacèrent, créant une symphonie d'amour qui résonnait à travers les pages de leur recueil poétique, une histoire d'amour née dans le silence des livres et devenue éternelle dans les battements de deux cœurs unis.
