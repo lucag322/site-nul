@@ -12,13 +12,25 @@ name = "Accueil"
 url = "/"
 
 [[menu.main]]
-identifier = "archives"
-name = "archives"
-url = "/archives/"
+identifier = "adrien"
+name = "adrien"
+url = "/adrien/"
 
 [[menu.main]]
 identifier = "antoine"
 name = "Antoine"
 url = "/antoine/"
+
+[[menu.main]]
+identifier = "thomas"
+name = "thomas"
+url = "/thomas/"
+
+[[menu.main]]
+identifier = "brandon"
+name = "brandon"
+url = "/brandon/"
+
+
 
 
