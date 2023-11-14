@@ -16,26 +16,20 @@ identifier = "home"
 name = "Accueil"
 url = "/"
 
-[[menu.main]]
-identifier = "adrien"
-name = "adrien"
-url = "/adrien/"
 
 [[menu.main]]
-identifier = "antoine"
-name = "Antoine"
-url = "/antoine/"
+identifier = "search"
+name = "search"
+url = "/search/"
 
 [[menu.main]]
-identifier = "thomas"
+identifier = "faq"
 name = "FAQ"
 url = "/faq/"
 
-[[menu.main]]
-identifier = "brandon"
-name = "brandon"
-url = "/brandon/"
 
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
 
 
 
