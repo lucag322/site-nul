@@ -3,7 +3,25 @@ languageCode = 'en-us'
 title = 'Site nul hihi'
 theme = "PaperMod"
 [params.homeInfoParams]
-Title = "Chroniques du Monde: Actualités et Perspectives Globales"
+Title = "Site créé par Luca Grousset grâce à Hugo."
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/lucag322/site-nul"
+
+[[params.socialIcons]]
+name = "other"
+url = "https://lucagrousset.eu/"
+
+
+
+[params.assets]
+favicon = "<link /favicon.icon>"
+
+[[socialIcons]]
+name = "kofi"
+title = "<custom title>"
+url = "https://kofi.com"
+
 
 [[contentTypes]]
   name = "post"
@@ -30,6 +48,13 @@ url = "/faq/"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+ShowShareButtons = true
+ShareButtons = [ "linkedin", "twitter" ]
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+
 
 
 
